@@ -46,4 +46,4 @@ app/
 
 ## Purpose
 
-This project demonstrates backend engineering concepts including API design, modular architecture, file handling, and asynchronous processing in the context of a real-world ML system.
+This project allows headless transactions and provides endpoints to utilise the multimodal nature of the base project, while demonstrating backend engineering concepts including API design, modular architecture, file handling, and asynchronous processing in the context of a real-world ML system.
